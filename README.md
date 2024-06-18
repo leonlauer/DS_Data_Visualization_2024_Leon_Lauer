@@ -1,6 +1,7 @@
-# UEFA EURO 2024 – Players
+# Data Visualization for UEFA EURO 2024 – Players
+Author: Leon Lauer <br><br>
 
-This repository was created by Leon Lauer as part of the "Data Visualization" module in the summer semester of 2024.
+This repository was created as part of the module "DVI - Data Visualization" by Prof. Dr. Konrad Förstner at TH Köln in the summer semester of 2024.
 
 
 ## Project description
