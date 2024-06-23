@@ -5,3 +5,8 @@ This repository was created as part of the module "DVI - Data Visualization" by 
 
 
 ## Project description
+
+
+## Data
+https://www.kaggle.com/datasets/damirdizdarevic/uefa-euro-2024-players
+
