@@ -1284,18 +1284,6 @@
         "Longitude": -118.4922
     },
     {
-        "Club": "FC Barcelona",
-        "ClubCountry": "Spain",
-        "Latitude": 41.3809,
-        "Longitude": 2.1228
-    },
-    {
-        "Club": "Real Madrid",
-        "ClubCountry": "Spain",
-        "Latitude": 40.4168,
-        "Longitude": -3.7038
-    },
-    {
         "Club": "Borussia Dortmund",
         "ClubCountry": "Germany",
         "Latitude": 51.4927,
@@ -1306,12 +1294,6 @@
         "ClubCountry": "Germany",
         "Latitude": 48.1371,
         "Longitude": 11.5754
-    },
-    {
-        "Club": "FC Barcelona B",
-        "ClubCountry": "Spain",
-        "Latitude": 41.3809,
-        "Longitude": 2.1228
     },
     {
         "Club": "FC Utrecht",
@@ -1638,18 +1620,6 @@
         "Longitude": 140.078
     },
     {
-        "Club": "Nagoya Grampus",
-        "ClubCountry": "Japan",
-        "Latitude": 35.1854,
-        "Longitude": 136.8988
-    },
-    {
-        "Club": "Vissel Kobe",
-        "ClubCountry": "Japan",
-        "Latitude": 34.6864,
-        "Longitude": 135.1645
-    },
-    {
         "Club": "Daegu FC",
         "ClubCountry": "South Korea",
         "Latitude": 35.8728,
@@ -1690,12 +1660,6 @@
         "ClubCountry": "South Korea",
         "Latitude": 37.4692,
         "Longitude": 126.6113
-    },
-    {
-        "Club": "FC Seoul",
-        "ClubCountry": "South Korea",
-        "Latitude": 37.5326,
-        "Longitude": 127.0245
     },
     {
         "Club": "Pohang Steelers",
@@ -1776,48 +1740,6 @@
         "Longitude": 27.0005
     },
     {
-        "Club": "F91 Dudelange",
-        "ClubCountry": "Luxembourg",
-        "Latitude": 49.4595,
-        "Longitude": 6.1083
-    },
-    {
-        "Club": "FC Differdange 03",
-        "ClubCountry": "Luxembourg",
-        "Latitude": 49.5667,
-        "Longitude": 5.968
-    },
-    {
-        "Club": "FC Swift Hesperange",
-        "ClubCountry": "Luxembourg",
-        "Latitude": 49.5881,
-        "Longitude": 6.0366
-    },
-    {
-        "Club": "FC Progr\u00e8s Niederkorn",
-        "ClubCountry": "Luxembourg",
-        "Latitude": 49.5,
-        "Longitude": 5.931
-    },
-    {
-        "Club": "FC Dallas",
-        "ClubCountry": "USA",
-        "Latitude": 32.7819,
-        "Longitude": -96.8097
-    },
-    {
-        "Club": "Sporting Kansas City",
-        "ClubCountry": "USA",
-        "Latitude": 39.0976,
-        "Longitude": -94.579
-    },
-    {
-        "Club": "Los Angeles FC",
-        "ClubCountry": "USA",
-        "Latitude": 34.0128,
-        "Longitude": -118.4922
-    },
-    {
         "Club": "Atlanta United FC",
         "ClubCountry": "USA",
         "Latitude": 33.749,
@@ -1876,12 +1798,6 @@
         "ClubCountry": "Canada",
         "Latitude": 43.651,
         "Longitude": -79.347
-    },
-    {
-        "Club": "Vancouver Whitecaps FC",
-        "ClubCountry": "Canada",
-        "Latitude": 49.2762,
-        "Longitude": -123.1113
     },
     {
         "Club": "Montreal Impact",
