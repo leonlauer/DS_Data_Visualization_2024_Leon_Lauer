@@ -5,6 +5,7 @@ This repository was created as part of the module "DVI - Data Visualization" by 
 
 
 ## Project description
+The use case focuses on the teams of the 2024 European Championship in Germany. The visualizations were created to compare the participating countries with each other.
 
 
 ## Data
