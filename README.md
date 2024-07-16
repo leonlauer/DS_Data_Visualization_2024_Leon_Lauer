@@ -11,4 +11,6 @@ The information used for the visualizations comes from the data set "Uefa Euro 2
 
 ## Data
 https://www.kaggle.com/datasets/damirdizdarevic/uefa-euro-2024-players
+<br>
+https://raw.githubusercontent.com/python-visualization/folium/master/examples/data/world-countries.json
 
